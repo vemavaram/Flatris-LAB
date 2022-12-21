@@ -16,3 +16,4 @@ This is test edit of Flatris change
 nice
 nice1
 nice2
+nice3
